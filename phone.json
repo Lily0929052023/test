@@ -11,12 +11,12 @@
                         "nmbr_type_code": "office_phone"
                     },
                     {
-                        "phone_number": "02293XXXX",
+                        "phone_number": "22293XXXX",
                         "nmbr_type": "住家電話",
                         "nmbr_type_code": "home_phone"
                     },
                     {
-                        "phone_number": "0922000222",
+                        "phone_number": "0922xxx222",
                         "nmbr_type": "被保人行動電話",
                         "nmbr_type_code": "insured_mobile_phone"
                     },
